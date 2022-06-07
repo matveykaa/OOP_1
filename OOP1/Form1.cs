@@ -22,7 +22,7 @@ namespace OOP1
             g = Graphics.FromImage(bm);
             g.Clear(Color.White);
             pic.Image = bm;
-           
+         
         }
 
         public List<Point> points_list = new List<Point>();

@@ -10,5 +10,6 @@ namespace OOP1
     public class Line : OpenFigures
     {
         public override int PointsCount { get => 2;}
+
     }
 }
